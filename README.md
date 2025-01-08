@@ -7,6 +7,7 @@ With a strong foundation in these areas, I thrive on solving complex problems an
 I'm always eager to learn and experiment with new technologies, whether it's improving algorithms, optimizing data workflows, or exploring emerging fields. I believe in constant growth, and I'm committed to refining my skills to make a meaningful impact.
 
 Let’s connect! 🤝
+
 Feel free to reach out if you'd like to collaborate, discuss ideas, or just share knowledge. I'm always up for a chat!
 
 <!--
