@@ -2,7 +2,7 @@
 
 I'm a Computer Science student passionate about exploring the world of **software development**, **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **data science**. Next, I'm expanding my knowledge into **Cybersecurity** to stay at the forefront of technology.
 
-With a strong foundation in these areas, I thrive on solving complex problems and developing innovative solutions. My academic journey allows me to dive into diverse projects, and I’m currently working on **StuddyBuddy**, an intelligent study planner tailored for computer science students. This project helps users manage their study schedules, track their progress, and receive personalized recommendations based on performance and deadlines.
+With a strong foundation in these areas, I thrive on solving complex problems and developing innovative solutions. My academic journey allows me to dive into diverse projects, and I’m currently working on **StuddyBuddy**, an intelligent study planner tailored for students. This project helps users manage their study schedules, track their progress, and receive personalized recommendations based on performance and deadlines.
 
 I'm always eager to learn and experiment with new technologies, whether it's improving algorithms, optimizing data workflows, or exploring emerging fields. I believe in constant growth, and I'm committed to refining my skills to make a meaningful impact.
 
