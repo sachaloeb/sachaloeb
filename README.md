@@ -1,6 +1,5 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Sacha</h1>
-<h3 align="center">🎓 CS student diving into AI, Data Science & Cybersecurity</h3>
+<h3 align="center">Aspiring Data Scientist | AI Engineer | Cybersecurity Specialist</h3>
 
 I'm a Computer Science student passionate about exploring the world of **Cybersecurity**, **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **data science**. Currently, I'm expanding my knowledge into **IoT & Robotics** to stay at the forefront of technology.
 
