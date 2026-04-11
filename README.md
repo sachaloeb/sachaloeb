@@ -1,10 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sacha</h1>
-<h3 align="center">Aspiring Data Scientist | AI Engineer | Cybersecurity Specialist</h3>
+# Hi, I'm Sacha! 👋
 
-I'm a Computer Science student passionate about exploring the world of **Cybersecurity**, **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **data science**. Currently, I'm expanding my knowledge into **Cloud Computing & Block Chains** to stay at the forefront of technology.
+I'm a Computer Science student and software engineer (BSc CS @ Maastricht University). I recently wrapped up a role as an AI Developer at Oraspire and am currently focused on building highly constrained, math-heavy systems across **Machine Learning, Quantitative Finance, Operations Research, and Systems Enginerring**.
 
-With a strong foundation in these areas, I thrive on solving complex problems and developing innovative solutions. My academic journey allows me to dive into diverse projects, and I’m currently working on an **AI Tutor**, a system designed to provide students with personalized learning experiences. The tutor observes students’ actions, supports them when they get stuck, and offers feedback and encouragement. This project involves experimenting with optimization methods to help students program robots to move as fast as possible, while also exploring solution transfer between different robots and groups in the presence of physical imperfections.
+### 🔭 What I'm currently working on
+- **BSc Thesis:** Developing a Python framework for **streaming signal decomposition** on real-time data under tight memory/latency constraints.
+- **Quant Project:** Building a **Limit Order Book (LOB) simulator** to model market microstructure, comparing execution strategies using a game-theoretic framework.
 
-I'm always eager to learn and experiment with new technologies, whether it's improving algorithms, optimizing data workflows, or exploring emerging fields. I believe in constant growth, and I'm committed to refining my skills to make a meaningful impact.
+### 🌱 What I'm currently learning
+- Wrapping up **Game Theory (Stanford)** to formalize strategic decision-making in markets and systems (having recently completed Micro/Macro/Business Econ coursework).
+- Prepping for upcoming deep dives into **Industrial Optimizers (MILP/Heuristics)** and **GCP MLOps**.
 
-Let’s connect! 🤝
+### 🚀 Featured Past Work
+- **Healthchain Access Control:** Built a decentralized, consent-driven access-control stack (Solidity/Hardhat) for patient healthcare data with large-scale automated simulation tooling.
+- **Transitor Routing Engine:** Developed a Java-based public transport routing engine integrating GTFS datasets to compute optimal transit routes and accessibility metrics.
+- **Modular AI Tutor:** Engineered a real-time hint-generation system for robotics students with strict GDPR privacy compliance and performance analytics.
+
+### 💻 Tech Stack
+- **Languages:** Python, Java, C, SQL/NoSQL, Solidity, JavaScript/TypeScript
+- **ML & Data Science:** PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn
+- **Systems & Tools:** Git, Linux, Hardhat, Express, JUnit, Pytest
+- **Concepts:** Time-Series Analysis, Applied Optimization, Smart Contracts, Real-Time Streaming
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/sachaloeb](https://linkedin.com/in/sachaloeb)
+- **Portfolio:** Check out my pinned repositories below for code samples, benchmark reports, and system architectures. 
