@@ -9,7 +9,7 @@ I'm a Computer Science student and software engineer (MSc CS @ TU Delft, BSc CS 
 
 ### 🚀 Recently shipped
 
-- **BSc Thesis, Streaming Signal Decomposition:** a Python framework that decomposes noisy real-time signals window by window (SSD-style, windowed embedding), with a YAML-driven benchmark pipeline and stability metrics that track whether components stay consistent as the signal changes.
+- **BSc Thesis, Streaming Signal Decomposition:** a Python framework that decomposes noisy real-time signals window by window (SSD-style, windowed embedding) under tight memory/latency constraints, with a YAML-driven benchmark pipeline and stability metrics that track whether components stay consistent as the signal changes.
 - **Limit Order Book simulator:** a market-microstructure toy model comparing market and limit orders across spread and impact regimes, with a game-theoretic layer on liquidity provision versus liquidity taking.
 
 ### 🌱 What I'm currently learning
